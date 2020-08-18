@@ -6,8 +6,13 @@
 ## About The Project
 
 Goals:
-* use Python to solve Sudoku puzzles using Recursive Backtracking algorithm
-* build a GUI for game play using PyQt5 modules
+* Solve Sudoku puzzles using Recursive Backtracking algorithm
+* build a GUI for game play
+
+MVC Pattern:
+* Model: Sudoku solver built in Python using Recursive Backtracking algorithm
+* View: GUI built with PyQt5 for game play
+* Controller: also built with PyQt5 to connect model to view
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
