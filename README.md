@@ -1,7 +1,6 @@
 
 <!-- PROJECT LOGO -->
 <h3 align="center">SUDOKU-Game-and-Solver</h3>
-<br />
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -13,12 +12,13 @@
 </p>
 
 The Goal of the project:
-* solve Sudoku puzzles by employing the Recursive Backtracking algorithm
-* build a GUI using PyQt5 modules
+* solve Sudoku puzzles using Recursive Backtracking algorithm
+* build a GUI for game play using PyQt5 modules
 
-### Built With
-The project is coded entirely in Python. It uses the following modules
-* PyQT5
-* Sys
-* Queue
+The game has a sudoku grid, a timer and an error counter. The user are allowed up to three errors.
 
+## Built With
+Python 3.7, PyQt5 module and other basic Python modules.
+
+## License
+You may download/use/distribute/modify the code however you like.
