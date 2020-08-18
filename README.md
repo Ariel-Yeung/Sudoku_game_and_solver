@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/sudoku.jpg" alt="Sudoku GUI Capture" width="80" height="80">
+    <img src="images/sudoku_gui.jpg" alt="Sudoku GUI Capture" width="91" height="120">
   </a>
 </p>
 
