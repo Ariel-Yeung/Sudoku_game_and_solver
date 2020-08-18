@@ -1,9 +1,8 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 13 18:27:51 2020
+# Man Yi (Ariel) Yeung Personal Project
 
-@author: Ariel
-"""
+# This file contains the model of the sudoku gamea and solver.
+# It utilizes a recursive Backtracking algorithm to obtain the solution.
+
 import math
 import time
 
