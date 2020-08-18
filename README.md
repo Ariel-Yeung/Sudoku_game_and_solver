@@ -20,8 +20,6 @@
   </a>
 </p>
 
-The game has a sudoku grid, a timer and an error counter. The user are allowed up to three errors.
-
 The empty sudoku puzzles are in "sudoku.csv", downloaded from the Kaggle page of Kyuyong Park at https://www.kaggle.com/bryanpark/sudoku.
 ## Built With
 Python 3.7, PyQt5 module, Pandas module, and other basic Python modules.
