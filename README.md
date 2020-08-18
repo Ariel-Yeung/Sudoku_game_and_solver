@@ -5,11 +5,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-###Goals:
+### Goals:
 * Solve Sudoku puzzles using Recursive Backtracking algorithm
 * build a GUI for game play
 
-###MVC Pattern:
+### MVC Pattern:
 * Model: Sudoku solver built in Python using Recursive Backtracking algorithm
 * View: GUI built with PyQt5 for game play
 * Controller: also built with PyQt5 to connect model to view
