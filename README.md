@@ -1,12 +1,12 @@
 
 <!-- PROJECT LOGO -->
-<h3 align="center">SUDOKU-Game-and-Solver</h3>
+<h3 align="center">Sudoku-Game-and-Solver</h3>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-The Goal of the project:
-* solve Sudoku puzzles using Recursive Backtracking algorithm
+Goals:
+* use Python to solve Sudoku puzzles using Recursive Backtracking algorithm
 * build a GUI for game play using PyQt5 modules
 
 <p align="center">
