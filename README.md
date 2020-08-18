@@ -11,7 +11,7 @@ The Goal of the project:
 
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/sudoku_gui.JPG" alt="Sudoku GUI Capture" width="910" height="1200">
+    <img src="images/sudoku_gui.JPG" alt="Sudoku GUI Capture" width="450" height="600">
   </a>
 </p>
 
